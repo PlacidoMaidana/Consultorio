@@ -1,0 +1,11 @@
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.exe.config
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.exe
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\bin\Debug\ConsultorioDatasSets.pdb
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.AssemblyReference.cache
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Properties.Resources.resources
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.GenerateResource.cache
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.csproj.CoreCompileInputs.cache
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.exe
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.pdb
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Form1.resources
+D:\ProyectosC#\Consultorio\ConsultorioDatasSets\ConsultorioDatasSets\obj\Debug\ConsultorioDatasSets.Consultas.resources
